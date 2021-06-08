@@ -1,0 +1,4 @@
+author = "ウィリアム.フォークナー"
+year_born = "1897"
+"{} は {} 年にうまれました。".format(author, year_born)
+
